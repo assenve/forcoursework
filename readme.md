@@ -18,7 +18,8 @@
 
     untitled：里面存放了全部的代码文件
         > src：里面存放了代码运行的类、一些资源和网站的所有行为控制代码
-            
+            > resources：里面存放了jdbc.properties文件，用于连接MySQL
+            > work：
         > web
         > untitled.iml
     mydb.sql：里面存放了我本人在本地测试时所使用的数据库
