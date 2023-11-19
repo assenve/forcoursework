@@ -21,7 +21,7 @@
             > resources：里面存放了jdbc.properties文件，用于连接MySQL
             > work：里面存放了类、工具组、行为控制代码
                 > bean：里面存放了全部的类
-                > utils：里面存放了三个工具代码，用于连接数据库、写网站日志、发送电子邮件
+                > utils：里面存放了三个工具代码，用于连接数据库、发送电子邮件、写网站日志
         > web
         > untitled.iml
     mydb.sql：里面存放了我本人在本地测试时所使用的数据库
