@@ -25,13 +25,16 @@
                 > web：里面存放了所有行为控制代码
                     > action：里面存放了所有运行的逻辑代码
                     > filter：里面存放了过滤器，防止通过url跳过登录直接访问网站
+                    
         > web
             > WEB-INF：里面存放了一些依赖包和web.xml文件
                 > lib：里面存放了三个依赖包
                 > web.xml：页面初始化文件
             > .jsp：是网站各个页面的设计代码
-        > untitled.iml
+            
+        > untitled.iml：idea自动创建的文件
     mydb.sql：里面存放了我本人在本地测试时所使用的数据库
     readme.md：本文件
-    
+
+注意，如果需要在本地使用，除了导入MySQL和设置jdbc文件外，还需要设置tomcat9的三个依赖文件，请自行通过编译器的报错信息上网查询
         
