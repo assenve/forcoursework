@@ -26,6 +26,10 @@
                     > action：里面存放了所有运行的逻辑代码
                     > filter：里面存放了过滤器，防止通过url跳过登录直接访问网站
         > web
+            > WEB-INF：里面存放了一些依赖包和web.xml文件
+                > lib：里面存放了三个依赖包
+                > web.xml：页面初始化文件
+            > .jsp：是网站各个页面的设计代码
         > untitled.iml
     mydb.sql：里面存放了我本人在本地测试时所使用的数据库
     readme.md：本文件
