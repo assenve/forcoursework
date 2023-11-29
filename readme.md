@@ -3,7 +3,7 @@
     代码完成者：
         学号：202130441931
         姓名：肖睿
-        部署网址：www.xforcourse.online （注意，只有3个月的有效期）
+        部署网址：www.xforcourse.online （注意，服务器只有3个月的有效期 2023.11.06 - 2024.2.6 ，但是域名有1年有效期）
         
     测试账户（如果本地测试，需要将mydb.sql导入本地MySQL并配置jdbc.properties文件）：
         顾客：
